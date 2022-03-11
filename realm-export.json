@@ -614,7 +614,7 @@
     "from": "Keycloak@localhost",
     "ssl": ""
   },
-  "loginTheme": "my-theme",
+  "loginTheme": "lab",
   "eventsEnabled": false,
   "eventsListeners": [
     "jboss-logging"
